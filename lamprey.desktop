@@ -1,0 +1,11 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=lamprey
+Comment=Control Apache and MySQL with a click
+Exec=/usr/bin/lamprey
+Icon=/usr/share/lamprey/lamprey.svg
+Terminal=false
+Type=Application
+Categories=GNOME;Application;Network;
+StartupNotify=true
+GenericName=

@@ -1,0 +1,12 @@
+LAMPrey for Ubuntu/Debian
+---------------------------
+
+This program is a tray icon that allows you to start/stop Apache and MySQL with
+a single mouse click. It's specifically tailored upon Ubuntu/Debian, most likely
+it won't work elsewhere without modifications of the commands to start, stop
+and check the status of the services.
+
+It works for the Apache and MySQL packages bundled with Ubuntu/Debian itself.
+
+To use it effectively you should add /usr/bin/lamprey to your desktop's
+autostart programs.
